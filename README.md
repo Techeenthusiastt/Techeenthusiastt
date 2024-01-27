@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Azure
 - 📫 How to reach me you can contact me at 9765331549
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: ...I am a distric level cricketer and gym lover.
+- ⚡ Fun fact: ...I am a district level cricketer and gym lover.
 
 <!---
 Techeenthusiastt/Techeenthusiastt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
